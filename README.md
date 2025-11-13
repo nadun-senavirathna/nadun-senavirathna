@@ -1,6 +1,6 @@
 <!-- 👋 Nadun Senavirathna | Full-Stack Developer Profile README -->
 
-<h1 align="center">Hi, I'm Nadun Senavirathna</h1>
+<h1 align="center" style="color: #ffa657;">Nadun Senavirathna</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I’m passionate about Cloud, DevOps, and applications using modern web technologies.
+  I’m passionate about Cloud, DevOps, and building applications using modern web technologies.
 </p>
 
 ---
