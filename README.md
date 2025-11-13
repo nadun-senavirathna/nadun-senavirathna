@@ -1,6 +1,6 @@
 <!-- 👋 Nadun Senavirathna | Full-Stack Developer Profile README -->
 
-<h1 align="center" style="color: #ffa657;">Nadun Senavirathna</h1>
+<h1 align="center">Nadun Senavirathna</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
