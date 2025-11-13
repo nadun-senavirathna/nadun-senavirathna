@@ -14,31 +14,31 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 -  Currently working on **Spring Boot** and **React** projects  
 -  Learning more about **AWS**, **CI/CD pipelines**, and **Microservices**  
 
 ---
 
 
-#### 💻 Languages & Frameworks
+#### Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,html,css,nodejs,express,python" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash" />
 </p>
 
-#### 🗄️ Databases & Tools
+#### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,vscode,git,vite,postman" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nadun-senavirathna" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:info.nadunsenavirathna@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
