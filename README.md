@@ -9,23 +9,21 @@
 </p>
 
 <p align="center">
-  Build scalable and efficient applications using modern web technologies.<br>
-  Passionate about Cloud, DevOps, and writing clean, maintainable code.
+  I’m passionate about Cloud, DevOps, and applications using modern web technologies.
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on **Spring Boot** and **React** projects  
-- 🌱 Learning more about **AWS**, **CI/CD pipelines**, and **Microservices**  
+-  Currently working on **Spring Boot** and **React** projects  
+-  Learning more about **AWS**, **CI/CD pipelines**, and **Microservices**  
 
 ---
 
-### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,html,css,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,html,css,nodejs,express,python" />
 </p>
 
 #### ☁️ Cloud & DevOps
@@ -35,7 +33,7 @@
 
 #### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,vscode,git,vite,postman" />
 </p>
 
 ---
